@@ -27,7 +27,7 @@ The game is built around procedural programming with functions and simple data s
 ## 📂 Project Structure
 ```
 SpaceInvaders/
-│── main.cpp        # contains all functions (game loop, input, render, logic)
+│── finalprojectbackup.cpp        # contains all functions (game loop, input, render, logic)
 │── README.md       # project documentation
 ```
 
